@@ -1,0 +1,10 @@
+.Card{
+    height: 15rem;
+    cursor: pointer;
+}
+
+.CardImage {
+    object-fit: cover;
+    border-radius: 75;
+    height: 15vh;
+}

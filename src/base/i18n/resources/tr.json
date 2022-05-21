@@ -1,0 +1,26 @@
+{
+    "General": {
+        "Error": "Bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin"
+    },
+    "Login": {
+        "Login": "Oturum Aç",
+        "SignUp": "Kayıt Ol",
+        "UserNameorEmailorMobileNo": "Kullanıcı Adı, EPosta, Telefon No",
+        "Password": "Şifre",
+        "RememberMe": "Beni Hatırla",
+        "ForgotPassword": "Şifremi Unuttum"
+    },
+    "Home": {
+        "HomeText": "Ana Sayfa",
+        "Search" : "Ara",
+        "Login": "Oturum Aç",
+        "Logout": "Oturumu Kapat",
+        "Options": "Seçenekler"
+    },
+    "Alert": {
+        "ExpiredSession": "Oturumunuzun süresi doldu. Giriş ekranına yönlendiriliyorsunuz. Daha iyi bir deneyim için lütfen tekrar giriş yapın.",
+        "Notification": "Bildirim",
+        "Close": "Kapat",
+        "Okey": "Tamam"
+    }
+}

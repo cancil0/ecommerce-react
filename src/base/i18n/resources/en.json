@@ -1,0 +1,26 @@
+{
+    "General": {
+        "Error": "Something went wrong. Please try again later"
+    },
+    "Login": {
+        "Login": "Login",
+        "SignUp": "Sign Up",
+        "UserNameorEmailorMobileNo": "UserName, Email, MobileNo",
+        "Password": "Password",
+        "RememberMe": "Remember Me",
+        "ForgotPassword": "ForgotPassword"
+    },
+    "Home": {
+        "HomeText": "Home",
+        "Search" : "Search",
+        "Login": "Login",
+        "Logout": "Logout",
+        "Options": "Options"
+    },
+    "Alert": {
+        "ExpiredSession": "Your session is expired. You are navigated to login page. Please re-login for better experience.",
+        "Notification": "Notification",
+        "Close": "Close",
+        "Okey": "Okey"
+    }
+}
